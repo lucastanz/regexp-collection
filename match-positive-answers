@@ -1,1 +1,3 @@
 non\s*(?:sono\s*interessat[oa]|mi\s*piace|mi\s*interessa|l[ao]\s*voglio)(*SKIP)(*F)|(\b(?:sono\s*interessat[oa]|mi\s*piace|mi\s*interessa|s[iìíÌÍ]|ok|l[ao]\s*voglio)\b)
+
+# https://regex101.com/r/2wiGkT/5
